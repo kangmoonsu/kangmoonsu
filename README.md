@@ -37,8 +37,6 @@
   ### 📊Github-stats
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=kangmoonsu&show_icons=true">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonsu1011)](https://solved.ac/moonsu1011/)
 </p>
  
 <br>
